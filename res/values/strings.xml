@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MP3</string>
+    <string-array name="poly_array">
+        <item>Singapore Polytechnic</item>
+        <item>Ngee Ann Polytechnic</item>
+        <item>Nanyang Polytechnic</item>
+        <item>Teamask Polytechnic</item>
+        <item>Republic Polytechnic</item>
+    </string-array>
+    <string-array name="polys_array">
+        <item>SP</item>
+        <item>NP</item>
+        <item>NYP</item>
+        <item>TP</item>
+        <item>RP</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
